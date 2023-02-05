@@ -35,5 +35,5 @@ Libraries and Packages - pandas, numpy, matplotlib, plotly, gensim, streamlit, n
 14.Run the Streamlit Application
 
 ## Result:
-[!result][!result.jpg]
+[!result][result.jpg]
  
