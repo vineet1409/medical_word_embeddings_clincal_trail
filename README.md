@@ -12,7 +12,7 @@ Libraries and Packages - pandas, numpy, matplotlib, plotly, gensim, streamlit, n
 ## Approach:
 1. Importing the required libraries
 2. Reading the dataset
-3. Pre-processing
+3. Pre-processing:
  Remove URLs
  Convert text to lower case
  Remove numerical values
@@ -21,7 +21,7 @@ Libraries and Packages - pandas, numpy, matplotlib, plotly, gensim, streamlit, n
  Remove stop words
  Perform lemmatization 
  Remove ‘\n’ character from the columns
-4. Exploratory Data Analysis (EDA) 
+4. Exploratory Data Analysis (EDA): 
  Data Visualization using word cloud
 5. Training the ‘Skip-gram’ model
 6. Training the ‘FastText’ model
